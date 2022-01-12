@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kradithya1106
-- 👀 I’m interested in SaaS, Stand-up, consumer-tech, ECommerce, Chatbots and Social Media
-- 🌱 I’m currently learning SQL, Tableau, Data Mining
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @AdithyaKR
+- 👀 I’m interested in SaaS, Consumer-tech, ECommerce, Chatbots, Social Media, Sports Analytics and Stand up comedy
+- 🌱 I’m currently learning SQL, Tableau, Python, Business Decision Modelling
+- 💞️ I’m looking to collaborate on Growth Analytics, Churn Analysis, Product Analytics
 - 📫 How to reach me kradithya1997 @ LinkedIn
 
 <!---
